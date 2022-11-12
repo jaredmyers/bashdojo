@@ -1,2 +1,3 @@
-# bashdojo
-ash/dash/bash discovery &amp; experimentation
+## Bash Dojo
+
+ash/dash/bash discovery & experimentation
