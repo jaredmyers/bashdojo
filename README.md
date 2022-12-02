@@ -1,3 +1,3 @@
-## Bash Dojo
+## Shell Dojo
 
-ash/dash/bash discovery & experimentation
+POSIX (ash/dash)/bash discovery & experimentation
